@@ -7,7 +7,7 @@ You can also use these additional custom/modified tags which are linked to Anniv
 
 * energy sword
 * flamethrower
-* fuel rod gun (plasma_cannmon)
+* fuel rod gun (plasma_cannon)
 * rocket warthog
 * scout hog
 * senti beam
