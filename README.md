@@ -5,6 +5,13 @@ Simply replace the initial_tpls.s3dpak, and the s3dpaks and imetas for the inclu
 
 You can also use these additional custom/modified tags which are linked to Anniversary graphics objects from the Extended S3DPAKs
 
+* energy sword
+* flamethrower
+* fuel rod gun (plasma_cannmon)
+* rocket warthog
+* scout hog
+* senti beam
+
 STEAM WORKSHOP DOES NOT SUPPORT ANNIVERSARY GRAPHICS. You must replace existing stock maps in order to be able to use Anniversary Graphics mode.
 
 
