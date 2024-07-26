@@ -6,6 +6,7 @@ STEAM WORKSHOP DOES NOT SUPPORT ANNIVERSARY GRAPHICS. You must replace existing 
 These custom/modified tags are linked to Anniversary graphics objects from the Extended S3DPAKs
 
 Tags:
+
 Characters:
 * cyborg.model_animations - Digsite shared animations (slightly modified), allows player usage of energy sword, plasma cannon, wraith, pelican, etc
 
@@ -23,5 +24,5 @@ Weapons:
 Known Issues:
 * Picking up the sword in tag_test causes it to crash (but it is fine ingame)
 
-General CEA Map tips:
+General CEA map tips:
 * NEVER remove placed objects from campaign scenarios, simple set them to not placed and remove script references instead.
