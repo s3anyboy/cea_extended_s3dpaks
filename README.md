@@ -3,7 +3,7 @@ Halo CEA (MCC) Extended S3DPAK
 This will allow you to use anniversary graphics for most stock halo tags (characters, weapons and vehicles) on every map. 
 Simply replace the initial_tpls.s3dpak, and the s3dpaks and imetas for the included levels.
 
-You cna also use these additional custom/modified tags which are linked to Anniversary graphics objects from the Extended S3DPAKs
+You can also use these additional custom/modified tags which are linked to Anniversary graphics objects from the Extended S3DPAKs
 
 STEAM WORKSHOP DOES NOT SUPPORT ANNIVERSARY GRAPHICS. You must replace existing stock maps in order to be able to use Anniversary Graphics mode.
 
