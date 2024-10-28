@@ -25,4 +25,4 @@ Known Issues:
 * Picking up the sword in tag_test causes it to crash (but it is fine ingame)
 
 General CEA map tips:
-* NEVER remove placed objects from campaign scenarios, simple set them to not placed and remove script references instead.
+* NEVER remove placed objects from campaign scenarios, simply set them to not placed and remove script references to those object instead.
