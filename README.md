@@ -14,6 +14,7 @@ You can also add these additional custom/modified tags to your map which are lin
 * senti beam
 
 STEAM WORKSHOP DOES NOT SUPPORT ANNIVERSARY GRAPHICS. You must REPLACE existing stock maps in order to be able to use Anniversary Graphics mode.
+
 When making an Anniversary compatible map, NEVER remove existing placed objects from the stock campaign scenarios, simply set them to not placed and remove script references to those objects instead.
 
 HUGE THANKS to Zatarita and Lord-Zedd whose tools made this possible.
