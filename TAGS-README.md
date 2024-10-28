@@ -25,4 +25,4 @@ Known Issues:
 * Picking up the sword in tag_test causes it to crash (but it is fine ingame)
 
 General CEA map tips:
-* NEVER remove placed objects from campaign scenarios, simply set them to not placed and remove script references to those objects instead.
+* When making an Anniversary compatible map, NEVER remove existing placed objects from the stock campaign scenarios, simply set them to not placed and remove script references to those objects instead.
